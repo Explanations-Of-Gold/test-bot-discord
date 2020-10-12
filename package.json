@@ -4,7 +4,7 @@
     "array-sort": "^1.0.0",
     "canvas": "^2.6.1",
     "dateformat": "^3.0.3",
-    "discord.js": "^11.3.2",
+    "discord.js": "^12.2.0",
     "express": "^4.17.1",
     "get-youtube-id": "^1.0.1",
     "gif-search": "^2.1.0",
