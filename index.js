@@ -24,7 +24,7 @@ const prefix = "#"
 
 
 
-client.login("NzQ0MTg2NzUxNzk4NDc2ODEw.Xzfj6w.xtgA7fNEcshE9n1sa2XXMb7RSag")
+client.login("NzQ0MTg2NzUxNzk4NDc2ODEw.Xzfj6w.80GUM80ykdFzHG5Gx-WKCYHg0Es")
 
 
 client.on('ready', () => {
